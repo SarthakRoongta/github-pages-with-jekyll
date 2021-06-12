@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "First Post"
+date: 2021-06-12
 ---
 
 # Welcome
